@@ -45,10 +45,5 @@ Before you begin, ensure you have met the following requirements:
 - MySQL (or another compatible database)
 - A web browser for frontend testing
 
-### Installation
 
-1. Clone this repository to your local machine:
-
-   ```sh
-   git clone https://github.com/yourusername/car-rental-fullstack.git
 
